@@ -1,4 +1,3 @@
-User
 # Vehicle Number Plate Recognition (VNPR) and Information Access System
 ## Description
 This repository contains the source code for a Vehicle Number Plate Recognition (VNPR) system developed using YOLOv8 for object detection, EasyOCR for optical character recognition, and OpenCV for image processing. The system allows for rapid license plate detection from live camera feeds, enabling efficient access to information related to recognized license plates.
